@@ -33,5 +33,15 @@ Além dos estudos, utilizo programação para desenvolver soluções e automatiz
 </p>
 
 ---
-  Construindo projetos para transformar teoria em código.
+
+### 🐍 Minhas contribuições
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WederBorges/WederBorges/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WederBorges/WederBorges/output/github-snake.svg">
+    <img alt="Animação de uma cobrinha percorrendo minhas contribuições no GitHub" src="https://raw.githubusercontent.com/WederBorges/WederBorges/output/github-snake.svg" width="100%">
+  </picture>
 </p>
+
+<p align="center">Construindo projetos para transformar teoria em código.</p>
